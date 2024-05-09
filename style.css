@@ -12,3 +12,20 @@
 html {
   scroll-behavior: smooth; /* this enables smooth scrolling between internal links */
 }
+
+/* To be deleted */
+/* div, section, header, footer{
+  border: 1px red solid;
+}
+
+h1, h2, h3, h4, h5, h6{
+  border: 1px solid blue;
+}
+
+a{border: 1px solid pink;}
+
+p{border: 1px solid yellow;}
+
+img{
+  border: 1px solid purple;
+} */
