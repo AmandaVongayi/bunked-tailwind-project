@@ -14,7 +14,7 @@ html {
 }
 
 /* To be deleted */
-div, section, header, footer{
+/* div, section, header, footer{
   border: 1px red solid;
 }
 
@@ -28,4 +28,10 @@ p{border: 1px solid yellow;}
 
 img{
   border: 1px solid purple;
-}
+} */
+
+/* .socials a i{
+  @apply px-4 py-2
+  @apply mx-2
+  @apply text-lg
+} */
