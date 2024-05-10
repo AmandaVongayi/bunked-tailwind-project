@@ -87,6 +87,8 @@ module.exports = {
         '70': '70vh',
         '60': '60vh',
         '50': '50vh',
+        '40': '40vh',
+        '30': '30vh',
       },
       aspectRatio: {
         'landscape': '3 / 2',
@@ -94,6 +96,9 @@ module.exports = {
         'portrait': '4/5',
         '5/3': '5 / 3',
       },
+      classes: {
+
+      }
     },
   },
   plugins: [
