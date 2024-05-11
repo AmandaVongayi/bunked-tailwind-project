@@ -30,8 +30,6 @@ img{
   border: 1px solid purple;
 } */
 
-/* .socials a i{
-  @apply px-4 py-2
-  @apply mx-2
-  @apply text-lg
-} */
+.socials a{
+  @apply px-4 py-2 mx-2 inline-block
+}
